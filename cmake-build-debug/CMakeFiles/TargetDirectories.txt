@@ -1,0 +1,3 @@
+/home/qwerti/Documents/GitHub/calculator/cmake-build-debug/CMakeFiles/calculator.dir
+/home/qwerti/Documents/GitHub/calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qwerti/Documents/GitHub/calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
